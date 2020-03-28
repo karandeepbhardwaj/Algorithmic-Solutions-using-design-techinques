@@ -1,0 +1,67 @@
+45
+A a 100
+B b 10
+C c 1
+D d 50
+E e 70
+F j 50
+a b 5
+b c 100
+c d 50
+d e 5
+G a 80
+G f 5
+a f 200
+b f 1
+c g 1
+c k 100
+d h 10
+d i 20
+e i 15
+f g 20
+h k 1
+h i 1
+j n 30
+i n 20
+h n 5
+k n 5
+n o 50
+o s 5
+o t 7
+s t 2
+s x 5
+t x 1
+x z 1
+k l 50
+l m 10
+m z 1
+g r 1
+r l 1
+u l 100
+g p 50
+f p 20
+p q 10
+p u 90
+q u 10
+u z 1
+
+//C 15
+
+14
+A B 4
+A c 8
+d B 8
+c B 11
+E c 7
+f c 1
+d E 2
+g d 7
+d h 4
+E f 6
+h f 2
+h g 14
+g z 9
+z h 10
+
+//E 16
+
